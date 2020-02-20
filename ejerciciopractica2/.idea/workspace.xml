@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8ba913c-0bb6-4db7-b4f2-1fb41b20fe89" name="Default Changelist" comment="commit1">
-      <change afterPath="$PROJECT_DIR$/../ejerciciopractica1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejerciciopractica1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejerciciopractica1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejerciciopractica1/.idea/practica1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejerciciopractica1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejerciciophp3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/htdocs.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="b8ba913c-0bb6-4db7-b4f2-1fb41b20fe89" name="Default Changelist" comment="commit3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../htdocs/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../htdocs/.idea/htdocs.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../htdocs/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../htdocs/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../htdocs/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../htdocs/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practica1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practica1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practica1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practica1/.idea/practica1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practica1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practica1/ejerciciophp1.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +13,20 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -56,7 +46,7 @@
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ejerciciopractica1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../index" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -87,7 +77,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582211295090</updated>
-      <workItem from="1582211296191" duration="5533000" />
+      <workItem from="1582211296191" duration="5962000" />
+      <workItem from="1582217310623" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="ejerciciopphp1">
       <created>1582215853181</created>
@@ -117,7 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582216679140</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit1">
+      <created>1582216991999</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582216991999</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit3">
+      <created>1582217039109</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582217039109</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,25 +168,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ejerciciopphp1" />
     <MESSAGE value="commit1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
+    <MESSAGE value="commit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="644" y="157" width="646" height="726" key="#ejerciciopractica2" timestamp="1582215621559">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="644" y="157" width="646" height="726" key="#ejerciciopractica2/0.0.1920.1040@0.0.1920.1040" timestamp="1582215621559" />
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1582217005569">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1582217063499">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582217005569" />
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582217063499" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1582216490440">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582216490440" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1582216716340">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1582217099720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582216716340" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582217099720" />
     <state x="795" y="443" key="NewPhpFileDialog" timestamp="1582216544211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -190,10 +196,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1582212606285" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1582217021671">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1582217046489">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582217021671" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582217046489" />
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1582217311124">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582217311124" />
     <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582216910631">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
