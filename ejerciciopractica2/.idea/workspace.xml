@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8ba913c-0bb6-4db7-b4f2-1fb41b20fe89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ejerciciopractica2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejerciciophp2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../htdocs/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../htdocs/.idea/htdocs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../htdocs/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../htdocs/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../htdocs/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../htdocs/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practica1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practica1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practica1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practica1/.idea/practica1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practica1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practica1/ejerciciophp1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +50,9 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -81,8 +63,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582211295090</updated>
-      <workItem from="1582211296191" duration="4445000" />
+      <workItem from="1582211296191" duration="4705000" />
     </task>
+    <task id="LOCAL-00001" summary="ejerciciopphp1">
+      <created>1582215853181</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582215853181</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ejerciciopphp1">
+      <created>1582215889815</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582215889815</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,16 +123,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ejerciciopphp1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejerciciopphp1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="644" y="157" width="646" height="726" key="#ejerciciopractica2" timestamp="1582215621559">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="644" y="157" width="646" height="726" key="#ejerciciopractica2/0.0.1920.1040@0.0.1920.1040" timestamp="1582215621559" />
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1582215852741">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1582215889485">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582215852741" />
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582215889485" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1582213599030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
