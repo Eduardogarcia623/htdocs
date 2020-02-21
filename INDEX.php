@@ -2,7 +2,8 @@
 
 <?php
 
-echo "hola mundo"
+include 'ejerciciopractica2/ejerciciophp4.php';
+
 ?>
 
 
