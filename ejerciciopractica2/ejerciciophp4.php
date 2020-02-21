@@ -16,7 +16,7 @@
     <br>
     <input type="radio" name="radio1" value="resta" >restar
     <br>
-    <input type="submit" name="operar">
+    <input type="submit" name="0perar">
 </form>
 
 </form>

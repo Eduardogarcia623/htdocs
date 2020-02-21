@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcda8f1f-f75f-49e0-85eb-9550cea30148" name="Default Changelist" comment="commitdesarrollo3">
-      <change afterPath="$PROJECT_DIR$/ejerciciopractica2/pagina4.php" afterDir="false" />
+    <list default="true" id="dcda8f1f-f75f-49e0-85eb-9550cea30148" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ejerciciopractica2/ejerciciophp4.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejerciciopractica2/ejerciciophp4.php" afterDir="false" />
     </list>
@@ -57,7 +56,7 @@
       <updated>1582217747508</updated>
       <workItem from="1582217749546" duration="642000" />
       <workItem from="1582290735770" duration="3126000" />
-      <workItem from="1582293873186" duration="2984000" />
+      <workItem from="1582293873186" duration="3532000" />
     </task>
     <task id="LOCAL-00001" summary="commitdesarrollo1">
       <created>1582217877765</created>
@@ -80,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582296939994</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commitdesarrollo3">
+      <created>1582297197752</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582297197752</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,14 +103,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582297090891" />
-    <state x="679" y="208" key="#ejerciciophp4.php" timestamp="1582292883921">
+    <state x="679" y="208" key="#ejerciciophp4.php" timestamp="1582297858172">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="679" y="208" key="#ejerciciophp4.php/0.0.1920.1040@0.0.1920.1040" timestamp="1582292883921" />
-    <state x="585" y="116" key="CommitChangelistDialog2" timestamp="1582296943908">
+    <state x="679" y="208" key="#ejerciciophp4.php/0.0.1920.1040@0.0.1920.1040" timestamp="1582297858172" />
+    <state x="585" y="116" key="CommitChangelistDialog2" timestamp="1582297197396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582296943908" />
+    <state x="585" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582297197396" />
     <state x="184" y="88" key="DiffContextDialog" timestamp="1582218027000">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -113,10 +119,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="795" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582297132812" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1582296946690">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1582297206223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582296946690" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582297206223" />
     <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1582293895511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
