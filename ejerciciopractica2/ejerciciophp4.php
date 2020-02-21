@@ -5,6 +5,7 @@
 </head>
 
 <body>
+
 <form method="post" action="pagina4.php">
     Ingrese Primer valor:
     <input type="text" name="valor1">
