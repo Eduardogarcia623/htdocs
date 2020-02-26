@@ -46,10 +46,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1582736143144">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1582736209066">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582736143144" />
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582736209066" />
     <state x="795" y="443" key="NewPhpFileDialog" timestamp="1582732987111">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -62,6 +62,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1582735876744" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1582736215656">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582736215656" />
     <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1582726551572">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
