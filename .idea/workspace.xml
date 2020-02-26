@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcda8f1f-f75f-49e0-85eb-9550cea30148" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="96f2ba10-2e4b-4efa-96b5-58802ed1ba25" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INDEX.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciopractica1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciopractica1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciopractica1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciopractica1/.idea/practica1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciopractica1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciopractica1/ejerciciophp1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciopractica1/ejerciciophp5.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciopractica1/pagina5.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciopractica2/.idea/ejerciciopractica2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciopractica2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciopractica2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciopractica2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciopractica2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciopractica2/ejerciciophp2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciopractica2/ejerciciophp3.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciopractica2/ejerciciophp4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejerciciopractica2/pagina4.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,24 +14,10 @@
       <executable />
     </execution>
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1Y51fti4Xv78Wt1lfGptjnA3ncu" />
+  <component name="ProjectId" id="1YLexUiwBDtIYpe8zQ6VMQZYnxm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -59,152 +26,45 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/index" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\index" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="ejerciciophp4.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ejerciciopractica2/ejerciciophp4.php">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="PHP Script.ejerciciophp4.php" />
-      </list>
-    </recent_temporary>
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dcda8f1f-f75f-49e0-85eb-9550cea30148" name="Default Changelist" comment="" />
-      <created>1582217747508</created>
+      <changelist id="96f2ba10-2e4b-4efa-96b5-58802ed1ba25" name="Default Changelist" comment="" />
+      <created>1582726548922</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582217747508</updated>
-      <workItem from="1582217749546" duration="642000" />
-      <workItem from="1582290735770" duration="3126000" />
-      <workItem from="1582293873186" duration="10588000" />
-      <workItem from="1582549692097" duration="2416000" />
-      <workItem from="1582554603884" duration="8473000" />
+      <updated>1582726548922</updated>
+      <workItem from="1582726551098" duration="6157000" />
     </task>
-    <task id="LOCAL-00001" summary="commitdesarrollo1">
-      <created>1582217877765</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1582217877765</updated>
-    </task>
-    <task id="LOCAL-00002" summary="commitdesarrollo2">
-      <created>1582218030481</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1582218030481</updated>
-    </task>
-    <task id="LOCAL-00003" summary="commitdesarrollo3">
-      <created>1582296939994</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1582296939994</updated>
-    </task>
-    <task id="LOCAL-00004" summary="commitdesarrollo3">
-      <created>1582297197752</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1582297197752</updated>
-    </task>
-    <task id="LOCAL-00005" summary="commitdesarrollo4">
-      <created>1582297867166</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1582297867166</updated>
-    </task>
-    <task id="LOCAL-00006" summary="commitdesarrollo5">
-      <created>1582301153072</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1582301153072</updated>
-    </task>
-    <task id="LOCAL-00007" summary="commitdesarrollo6">
-      <created>1582303471871</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1582303471871</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="commitdesarrollo1" />
-    <MESSAGE value="commitdesarrollo2" />
-    <MESSAGE value="commitdesarrollo3" />
-    <MESSAGE value="commitdesarrollo4" />
-    <MESSAGE value="commitdesarrollo5" />
-    <MESSAGE value="commitdesarrollo6" />
-    <option name="LAST_COMMIT_MESSAGE" value="commitdesarrollo6" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Deployment" timestamp="1582559468147">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1582736143144">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1582559468147" />
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582297090891">
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582736143144" />
+    <state x="795" y="443" key="NewPhpFileDialog" timestamp="1582732987111">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582297090891" />
-    <state x="679" y="208" key="#ejerciciophp4.php" timestamp="1582297858172">
+    <state x="795" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582732987111" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1582729682072">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="679" y="208" key="#ejerciciophp4.php/0.0.1920.1040@0.0.1920.1040" timestamp="1582297858172" />
-    <state x="585" y="116" key="CommitChangelistDialog2" timestamp="1582563574356">
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582729682072" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1582735876744">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582563574356" />
-    <state x="184" y="88" key="DiffContextDialog" timestamp="1582218027000">
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1582735876744" />
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1582726551572">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="88" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582218027000" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1582559466177">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582559466177" />
-    <state x="795" y="443" key="NewPhpFileDialog" timestamp="1582556940801">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="795" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582556940801" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1582303474736">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582303474736" />
-    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1582554606090">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582554606090" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1582552508906">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582552508906" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582292347944">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582292347944" />
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582726551572" />
   </component>
 </project>
