@@ -4,9 +4,9 @@ session_start();
 
 
 $usuario = $_POST ['usuario'];
-$clave = $_POST ['clave'];
+$contrasena = $_POST ['contrasena'];
 //llamar la base de datos en mysql
-$q = "SELECT COUNT(*) as contar from usuarios WHERE usuario = '$usuario'  AND clave = '$clave'";
+$q = "SELECT COUNT(*) as contar from persona WHERE nombre_usuario = '$usuario'  AND contrasena = '$contrasena'";
 $consulta = mysqli_query($conexion, $q);
 $array = mysqli_fetch_array($consulta);
 

@@ -2,9 +2,9 @@
 
 $host  = "localhost";
 $usuario  = "root";
-$clave = "";
-$bd = "loginphp";
+$contrasena = "";
+$bd = "technet";
 
- $conexion = mysqli_connect($host, $usuario,$clave,$bd);
+ $conexion = mysqli_connect($host, $usuario,$contrasena,$bd);
 
 ?>

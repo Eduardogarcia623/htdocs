@@ -2,7 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96f2ba10-2e4b-4efa-96b5-58802ed1ba25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/bootstrap/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/bootstrap/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/bootstrap/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/css/estilos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/imagenes/fondo3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/imagenes/fondo3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/imagenes/fondo4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/imagenes/fondo4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/imagenes/user1.png" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/imagenes/user1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/imagenes/usuario2.png" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/imagenes/usuario2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/imagenes/vivelab.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/imagenes/vivelab.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/imagenes/vivelab2.png" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/imagenes/vivelab2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/modelo/conexion.php" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/modelo/conexion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/modelo/loguear.php" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/modelo/loguear.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/paginaprincipal.php" beforeDir="false" afterPath="$PROJECT_DIR$/PROYECTO-DESARROLLO-master/vista/paginaprincipal.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +54,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PROYECTO-DESARROLLO-master\vista" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -38,22 +69,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582726548922</updated>
-      <workItem from="1582726551098" duration="6157000" />
+      <workItem from="1582726551098" duration="6419000" />
+      <workItem from="1582809236984" duration="551000" />
+      <workItem from="1582810933852" duration="6678000" />
     </task>
+    <task id="LOCAL-00001" summary="LOGIN4">
+      <created>1582736204256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582736204256</updated>
+    </task>
+    <task id="LOCAL-00002" summary="LOGIN4">
+      <created>1582736271090</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582736271090</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LOGIN4" />
+    <option name="LAST_COMMIT_MESSAGE" value="LOGIN4" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1582736209066">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1582736270702">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582736209066" />
-    <state x="795" y="443" key="NewPhpFileDialog" timestamp="1582732987111">
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582736270702" />
+    <state x="795" y="443" key="NewPhpFileDialog" timestamp="1582811346328">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="795" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582732987111" />
+    <state x="795" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582811346328" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1582729682072">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -62,13 +114,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1582735876744" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1582736215656">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1582736275605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582736215656" />
-    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1582726551572">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582736275605" />
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1582810937707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582726551572" />
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582810937707" />
   </component>
 </project>

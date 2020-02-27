@@ -9,7 +9,7 @@
 
 </header>
 <center>
-<link rel=stylesheet href=../css/estilos.css>
+<link rel=stylesheet href=css/estilos.css>
 <?php
 
 
