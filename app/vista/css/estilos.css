@@ -1,3 +1,14 @@
+
+h1{
+    text-align: center;
+    font-family: "book Antigua";
+}
+a{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    font-family: "book Antigua";
+}
 img{
     align-content: center;
     align-items: center;
