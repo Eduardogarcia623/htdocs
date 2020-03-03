@@ -22,13 +22,13 @@ session_start();
 $usuario = $_SESSION [ 'username'];
 
 if(!isset($usuario)){
-    header("location: ../vista/login.php");
+    header("location: ../views/login.view.php");
 }
 else{
 
     echo "<h1> Bienvenido $usuario </h1>";
 
-    echo "<a href='../controlador/salir.php' > SALIR </a> ";
+    echo "<a href='../controllers/logout.php' > SALIR </a> ";
 
 }
 

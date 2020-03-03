@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name ="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X.UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="p/css/bootstrap.min.css">
-    <link rel="stylesheet" href="los.css">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href= "css/styles.css">
     <title>
         login con sesion
     </title>
@@ -15,10 +15,10 @@
 <header>
 
 </header>
-<form action="../modelo/loguear.php" method="POST">
+<form action="../models/login.php" method="POST">
 <div class="container">
     <div class="row">
-        <img src="/user1.png" width="100" height="120">
+        <img src="images/user1.png" width="100" height="120">
         <div class="usuario">
             <label>Usuario:</label> <br>
             <input type="text" name="usuario" placeholder="Ingrese usuario">
@@ -39,7 +39,7 @@
 
 <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-<script src="p/js/bootstrap.min.js" ></script>
+<script src="bootstrap/js/bootstrap.min.js" ></script>
 
 
 

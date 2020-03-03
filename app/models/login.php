@@ -1,5 +1,5 @@
 <?php
-require 'conexion.php';
+require 'connection.php';
 session_start();
 
 $usuario = $_POST ['usuario'];
@@ -61,7 +61,7 @@ try {
 //    echo "error, credenciales incorrectas";
 //}else{
 //    $_SESSION['datos_personales'] = $array;
-//    header("Location: ../vista/usuario.php");
+//    header("Location: ../views/dashboard.php");
 //}
 
 ?>

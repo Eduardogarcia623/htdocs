@@ -1,43 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96f2ba10-2e4b-4efa-96b5-58802ed1ba25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/controlador/controlador_principal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/http/rutas.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/modelo/conexion.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/modelo/loguear.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/vista/paginaprincipal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/vista/usuario.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/rutador.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
+    <list default="true" id="43447ffd-f0ce-4f95-a59f-33bdcbc4d9bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/HomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/loginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/homepage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/images/fondo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/images/fondo4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/images/user1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/images/usuario2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/images/vivelab.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/images/vivelab2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/login.view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/App.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/Autoloader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/Response.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/database.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controlador/salir.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controlador/salir.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modelo/conexion.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modelo/loguear.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/bootstrap/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/bootstrap/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/bootstrap/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/css/estilos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/imagenes/fondo3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/imagenes/fondo3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/imagenes/fondo4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/imagenes/fondo4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/imagenes/user1.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/imagenes/user1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/imagenes/usuario2.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/imagenes/usuario2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/imagenes/vivelab.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/imagenes/vivelab.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/imagenes/vivelab2.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/imagenes/vivelab2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/vista/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista/paginaprincipal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controlador/Maincontroller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controlador/salir.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/http/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/http/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/modelo/conexion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/modelo/loguear.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/css/estilos.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/imagenes/fondo3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/imagenes/fondo4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/imagenes/user1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/imagenes/usuario2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/imagenes/vivelab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/imagenes/vivelab2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/paginaprincipal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vista/usuario.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Router.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +88,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1YLexUiwBDtIYpe8zQ6VMQZYnxm" />
+  <component name="ProjectId" id="1YcTrWo2oiBjzUUzx5e5uCNCpSB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -62,13 +101,10 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\public" />
-      <recent name="C:\xampp\htdocs\app" />
-      <recent name="C:\xampp\htdocs\PROYECTO-DESARROLLO-master\vista" />
+      <recent name="C:\xampp\htdocs\directorio" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -76,99 +112,41 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="96f2ba10-2e4b-4efa-96b5-58802ed1ba25" name="Default Changelist" comment="" />
-      <created>1582726548922</created>
+      <changelist id="43447ffd-f0ce-4f95-a59f-33bdcbc4d9bc" name="Default Changelist" comment="" />
+      <created>1583241081553</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582726548922</updated>
-      <workItem from="1582726551098" duration="6419000" />
-      <workItem from="1582809236984" duration="551000" />
-      <workItem from="1582810933852" duration="6838000" />
-      <workItem from="1582895501632" duration="7346000" />
-      <workItem from="1582902863622" duration="733000" />
-      <workItem from="1582903680637" duration="4909000" />
-      <workItem from="1583155480081" duration="12398000" />
+      <updated>1583241081553</updated>
+      <workItem from="1583241084068" duration="12879000" />
     </task>
-    <task id="LOCAL-00001" summary="LOGIN4">
-      <created>1582736204256</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1582736204256</updated>
-    </task>
-    <task id="LOCAL-00002" summary="LOGIN4">
-      <created>1582736271090</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1582736271090</updated>
-    </task>
-    <task id="LOCAL-00003" summary="LOGIN5">
-      <created>1582822989217</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1582822989217</updated>
-    </task>
-    <task id="LOCAL-00004" summary="LOGIN6">
-      <created>1582909187758</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1582909187758</updated>
-    </task>
-    <task id="LOCAL-00005" summary="LOGIN7">
-      <created>1582909225280</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1582909225280</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LOGIN4" />
-    <MESSAGE value="LOGIN5" />
-    <MESSAGE value="LOGIN6" />
-    <MESSAGE value="LOGIN7" />
-    <option name="LAST_COMMIT_MESSAGE" value="LOGIN7" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="714" y="110" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583168491860">
+    <state x="714" y="110" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583249857783">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="714" y="110" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583168491860" />
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1582909224837">
+    <state x="714" y="110" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583249857783" />
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1583242367762">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582909224837" />
-    <state x="795" y="443" key="NewPhpFileDialog" timestamp="1583167951269">
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583242367762" />
+    <state x="795" y="443" key="NewPhpFileDialog" timestamp="1583249092261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="795" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583167951269" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1582729682072">
+    <state x="795" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583249092261" />
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1583241086784">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582729682072" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1582735876744">
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583241086784" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1583252495471">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1582735876744" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1582909232383">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582909232383" />
-    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1583155483206">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583155483206" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1582908964849">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582908964849" />
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583252495471" />
   </component>
 </project>
