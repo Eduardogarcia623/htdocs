@@ -2,91 +2,198 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43447ffd-f0ce-4f95-a59f-33bdcbc4d9bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/HomeController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/loginController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/connection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/dashboard.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/home.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/homepage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/images/fondo3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/images/fondo4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/images/user1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/images/usuario2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/images/vivelab.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/images/vivelab2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/login.view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/App.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/Autoloader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/Response.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/.idea/technet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/.styleci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Http/Controllers/AdminController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Http/Controllers/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Http/Controllers/UserController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Http/Middleware/CheckForMaintenanceMode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/app/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/config/cors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/public/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/resources/css.create/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/resources/images/user1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/resources/lang/en/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/resources/lang/en/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/resources/lang/en/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/resources/lang/en/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/resources/views/Admin.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/resources/views/Login.Blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/resources/views/User.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/technet/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controlador/Maincontroller.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controlador/salir.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/http/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/http/routes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/modelo/conexion.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/modelo/loguear.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/css/estilos.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/imagenes/fondo3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/imagenes/fondo4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/imagenes/user1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/imagenes/usuario2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/imagenes/vivelab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/imagenes/vivelab2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/paginaprincipal.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vista/usuario.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Router.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/loginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/http/routes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/connection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/dashboard.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/homepage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/images/fondo3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/images/fondo4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/images/user1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/images/usuario2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/images/vivelab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/images/vivelab2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/login.view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/App.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Autoloader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/Response.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1YcTrWo2oiBjzUUzx5e5uCNCpSB" />
   <component name="ProjectLevelVcsManager">
@@ -100,10 +207,13 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\technet\resources\images" />
       <recent name="C:\xampp\htdocs\directorio" />
     </key>
   </component>
@@ -117,8 +227,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583241081553</updated>
-      <workItem from="1583241084068" duration="12879000" />
+      <workItem from="1583241084068" duration="12920000" />
+      <workItem from="1583327299108" duration="9885000" />
+      <workItem from="1583339935306" duration="37000" />
+      <workItem from="1583339986905" duration="6000" />
     </task>
+    <task id="LOCAL-00001" summary="LOGIN10">
+      <created>1583255060269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583255060269</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,24 +247,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="LOGIN10" />
+    <option name="LAST_COMMIT_MESSAGE" value="LOGIN10" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="714" y="110" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583249857783">
+    <state x="714" y="110" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583335260624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="714" y="110" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583249857783" />
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1583242367762">
+    <state x="714" y="110" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583335260624" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583335736787">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583242367762" />
-    <state x="795" y="443" key="NewPhpFileDialog" timestamp="1583249092261">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583335736787" />
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1583255059752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="795" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583249092261" />
-    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1583241086784">
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583255059752" />
+    <state x="795" y="443" key="NewPhpFileDialog" timestamp="1583335655967">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583241086784" />
+    <state x="795" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583335655967" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1583255068107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583255068107" />
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1583339987376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583339987376" />
     <state x="623" y="225" key="search.everywhere.popup" timestamp="1583252495471">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

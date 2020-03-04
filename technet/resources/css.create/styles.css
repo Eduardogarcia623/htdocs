@@ -1,0 +1,100 @@
+
+h1{
+    text-align: center;
+    font-family: "book Antigua";
+}
+a{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    font-family: "book Antigua";
+}
+img{
+    align-content: center;
+    align-items: center;
+    position: center;
+    top: 50%;
+    left: 50%;
+    margin-left: 170px;
+
+}
+.container{
+    padding: 40px;
+    background: honeydew;
+    width: 500px;
+    height: 500px;
+}
+
+header{
+    padding: 50px;
+}
+
+label{
+    font-family: "Book Antiqua";
+}
+button:hover{
+    background-color: #008CBA;
+    color: white;
+}
+
+img{
+    align-content: center;
+    padding: 10px;
+
+
+}
+
+body {
+    background: white;
+}
+
+button{
+    text-decoration: none;
+    padding: 2px;
+    font-weight: 500;
+    font-size: 22px;
+    color: #1d1e1f;
+    background-zcolor: deepskyblue;
+    border-radius: 50px;
+    width:130%;
+    margin-left: 100px;
+    margin-top: 10px;
+
+
+}
+
+.contrasena{
+    position: relative;
+    align-content: center;
+    width: 194%;
+    padding: 8px 20px;
+    border: 4px solid white;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background: #bcdff1;
+    text-align: center;
+    justify-content: center;
+
+
+}
+.usuario {
+    position: relative;
+    align-content: center;
+    width: 194%;
+    padding: 8px 20px;
+    border: 4px solid white;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background: #bcdff1;
+    text-align: center;
+    justify-content: center;
+}
+
+input[type=text], input[type=password] {
+    align-items: center;
+    border-bottom: #e4b9b9;
+    border-radius: 5px;
+    height: 30px;
+    width: 400px;
+
+}
