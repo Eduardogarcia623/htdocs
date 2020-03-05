@@ -15,7 +15,7 @@
 <header>
 
 </header>
-<form action="app/Http/Controllers/LoginController.php" method="POST">
+<form action="" method="POST">
     <div class="container">
         <div class="row">
             <img src="../resources/images/user1.png" width="100" height="120">
