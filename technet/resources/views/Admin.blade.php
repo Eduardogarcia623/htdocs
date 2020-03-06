@@ -15,7 +15,7 @@
 <header>
 
 </header>
-<form action="http://localhost/technet/app/Http/Models/AdminModel.php" method="POST">
+<form action="/create" method="POST">
     <div class="container">
         <div class="row">
             <img src="../resources/images/user1.png" width="100" height="120">

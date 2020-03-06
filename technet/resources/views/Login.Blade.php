@@ -20,6 +20,7 @@
         <div class="row">
             <img src="../resources/images/user1.png" width="100" height="120">
             <div class="usuario">
+
                 <label>Usuario:</label> <br>
                 <input type="text" name="usuario" placeholder="Ingrese usuario">
             </div>

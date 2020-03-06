@@ -1,9 +1,10 @@
 <?php
 
+
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('Login');
+    return view('login');
 });
 Route::get('/Admin', function () {
     return view('Admin');
@@ -12,3 +13,4 @@ Route::get('/Admin', function () {
 Route::get('/User', function () {
     return view('User');
 });
+
