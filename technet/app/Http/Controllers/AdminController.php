@@ -23,9 +23,12 @@ public function create (Request $request){
     $persona -> edad = $request -> edad;
     $persona -> save();
 
-    return redirect("/create");
+     $conexion = $persona::all();
 
-}
+
+    return redirect("/Admin.Blade.php");
+
+    }
 
 
 }

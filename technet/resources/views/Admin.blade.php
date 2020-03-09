@@ -15,13 +15,13 @@
 <header>
 
 </header>
-<form action="/create" method="POST">
+<form action="app/Http/Controllers/AdminController.php" method="POST">
     <div class="container">
         <div class="row">
             <img src="../resources/images/user1.png" width="100" height="120">
             <div class="usuario">
                 <label>Usuario:</label> <br>
-                <input type="text" name="usuario" placeholder="Ingrese usuario">
+                <input type="text" name="nombre_usuario" placeholder="Ingrese usuario">
             </div>
             <br>
             <div class="contrasena">
