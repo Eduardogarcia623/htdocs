@@ -11,18 +11,19 @@
     </title>
 
 </head>
-<body >
+<body>
+
 <header>
 
 </header>
 <form action="" method="POST">
-    <div class="container">
+    <div class="container" id="loginlg">
         <div class="row">
             <img src="../resources/images/user1.png" width="100" height="120">
             <div class="usuario">
 
                 <label>Usuario:</label> <br>
-                <input type="text" name="usuario" placeholder="Ingrese usuario">
+                <input type="text" name="nombre_usuario" placeholder="Ingrese usuario">
             </div>
             <br>
             <div class="contrasena">
