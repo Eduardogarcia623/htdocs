@@ -11,7 +11,4 @@ use App\Modulo;
 
 class ModuloController extends Controller{
 
-    public function index(){
-        $Modulo  = Modulo::all();
-    }
 }
