@@ -11,10 +11,17 @@ use App\Persona;
 
 
 class PersonaController extends Controller{
+
     public function select(){
-        $persona = DB::table('persona')->get();
 
+        $consulta = DB::table('persona')->get();
 
+    }
+
+    public function index()
+    {
+        $consulta = Persona::with(['perfiles.modulos'])->get();
+        return view('login')->with('consulta',$consulta);
     }
 
 }

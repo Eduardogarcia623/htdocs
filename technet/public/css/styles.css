@@ -1,9 +1,5 @@
 
 
-h1{
-    text-align: center;
-    font-family: "book Antigua";
-}
 a{
     text-align: center;
     display: inline-block;
@@ -21,9 +17,9 @@ img{
 }
 .container{
     padding: 40px;
-    background: honeydew;
     width: 500px;
     height: 500px;
+
 }
 
 header{
@@ -32,6 +28,7 @@ header{
 
 label{
     font-family: "Book Antiqua";
+    font-weight: bold;
 }
 button:hover{
     background-color: #008CBA;
@@ -46,7 +43,7 @@ img{
 }
 
 body {
-    background: white;
+
 }
 
 button{
@@ -97,5 +94,7 @@ input[type=text], input[type=password] {
     border-radius: 5px;
     height: 30px;
     width: 400px;
+
+
 
 }
