@@ -8,6 +8,9 @@ use Illuminate\Support\Facades\Route;
 //});
 
 Route::get('/','personaController@index');
+Route::get('/admin','personaController@ingreso');
+
+
 
 
 
