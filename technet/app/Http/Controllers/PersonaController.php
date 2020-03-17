@@ -10,6 +10,7 @@ use Illuminate\Foundation\Auth\AuthenticatesUsers;
 use App\Persona;
 
 
+
 class PersonaController extends Controller{
 
     public function index()
@@ -20,9 +21,18 @@ class PersonaController extends Controller{
     }
    public function ingreso()
    {
+       $persona = new persona();
 
-   }
+       $persona -> nombre_usuario = $_REQUEST -> $nombre_usuario;
+       $persona -> contrasena = $_REQUEST -> $contrasena;
 
+       if (Auth::attempt(['nombre_usuario' => $nombre_usuario, 'contrasena' => $contrasena, ])) {
+           // The user is active, not suspended, and exists.
+           return redirect()->intended('login');
+       }
 
 }
+
+}
+
 

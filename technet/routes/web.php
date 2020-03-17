@@ -8,7 +8,11 @@ use Illuminate\Support\Facades\Route;
 //});
 
 Route::get('/','personaController@index');
-Route::get('/admin','personaController@ingreso');
+
+
+Route::get('auth/login', 'Auth\AuthController@getLogin');
+Route::post('auth/login', 'Auth\AuthController@postLogin');
+Route::get('auth/logout', 'Auth\AuthController@getLogout');
 
 
 
